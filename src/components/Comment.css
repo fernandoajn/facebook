@@ -1,0 +1,26 @@
+div .comment{
+  display: flex;
+  margin: 1em auto;
+}
+
+div .comment > div {
+  border-radius: 15px;
+  background-color: #EEEEEE;
+  padding: 1em;
+  margin-left: 10px;
+  width: 100%;
+}
+
+div .comment > div strong {
+  font-size: 13px;
+}
+
+div .comment > div p {
+  font-size: 13px;
+}
+
+div .comment img {
+  border-radius: 50%;
+  width: 32px;
+  height: 32px;
+}

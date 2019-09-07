@@ -1,0 +1,14 @@
+nav {
+  background: #4A90E2;
+  color: #FFFFFF;
+  padding: 1.5em;
+  display: flex;
+  justify-content: center;
+}
+
+nav .wrapper {
+  align-items: center; 
+  display: flex;
+  justify-content: space-between;
+  width: 80%;
+}
